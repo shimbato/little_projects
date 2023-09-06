@@ -1,0 +1,42 @@
+body {
+    background-color: bisque;
+}
+
+form {
+    
+    background: #ffffff;
+    width:300px;
+    margin: auto;
+    margin-top: 10px;
+    padding: 40px;
+    box-shadow: 0 0 10px  #e5e5e5;
+
+    
+}
+
+.form_controll {
+    width: 100%;
+    margin: 5px;
+    padding: 5px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+}
+h2{
+    text-align: center;
+}
+
+button {
+ 
+    
+    width: 100%;
+    background-color:#bc8e5c;
+    color: #ffffff;
+    border: none;
+    padding: 10px;
+    margin: 10px;
+    
+}
+.remember {
+    text-align: right;
+    font-style: italic;
+}

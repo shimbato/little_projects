@@ -1,0 +1,33 @@
+
+
+
+.app__header {
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+
+.app__title {
+    font-size: 28px;
+    line-height: 37px;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+}
+
+.app__title span {
+    color: #9F0013;
+}
+
+.app__menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+} 
+li a:hover{
+    color: #9F0013;
+}
